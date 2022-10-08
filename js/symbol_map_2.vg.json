@@ -1,0 +1,146 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 450,
+    "title": "Seasonal comparison of visitors",
+    "projection": {"type": "albersUsa"},
+    "config": {"legend": {"disable": true}},
+    "params": [
+        {
+            "name": "year_selection",
+            "value": 2021,
+            "bind": {
+                "input": "range",
+                "min": 2012,
+                "max": 2021,
+                "step": 1,
+                "name": "Year: "
+            }
+        },
+        {
+            "name": "season_selection",
+            "value": "Summer",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "Summer",
+                    "Autumn",
+                    "Winter",
+                    "Spring"
+                ],
+                "name": "Season: "
+            }
+        }
+    ],
+    "layer": [
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/js/ne_50m_admin_1_states_provinces.json",
+                "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "#f0f2f5",
+                "stroke": "darkgrey"
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/data/nationalParkStats.csv"
+            },
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {"type": "point", "on": "mouseover"}
+                },
+                {"name": "select", "select": "point"}
+            ],
+            "transform": [
+                {
+                    "aggregate": [
+                        {
+                            "op": "sum",
+                            "field": "Recreation Visits",
+                            "as": "season_visits"
+                        }
+                    ],
+                    "groupby": ["ShortName", "Latitude", "Longitude", "Season", "Year"]
+                },
+                {"filter": "datum.Year == year_selection"},
+                {"filter": "datum.Season == season_selection"}
+            ],
+            "mark": {
+                "type": "circle",
+                "stroke": "black",
+                "cursor": "pointer"
+            },
+            "encoding": {
+                "latitude": {"field": "Latitude", "type": "quantitative"},
+                "longitude": {"field": "Longitude", "type": "quantitative"},
+                "size": {
+                    "field": "season_visits",
+                    "type": "quantitative",
+                    "title": "Visits",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [500000, 1000000, 2000000, 3000000, 4000000],
+                        "range": [50, 150, 200, 300, 450, 600]
+                    },
+                    "legend": {"format": ".2s"}
+                },
+                "color": {
+                    "field": "Season",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                            "Summer",
+                            "Autumn",
+                            "Winter",
+                            "Spring"
+                        ],
+                        "range": [
+                            "#E8361B",
+                            "#733A09",
+                            "#1070B1",
+                            "lightseagreen"
+                        ]
+                    }
+                },
+                "fillOpacity": {
+                    "condition": {
+                            "param": "select",
+                            "empty": true,
+                            "value": 1
+                        },
+                    "value": 0.3
+                },
+                "strokeWidth": {
+                    "condition": [
+                        {
+                            "param": "select",
+                            "empty": false,
+                            "value": 2
+                        },
+                        {
+                            "param": "highlight",
+                            "empty": false,
+                            "value": 1
+                        }
+                    ],
+                    "value": 0
+                },
+                "tooltip": [
+                    {"field": "ShortName", "title": "Park"},
+                    {"field": "Year"},
+                    {"field": "Season"},
+                    {
+                        "field": "season_visits",
+                        "title": "Visits",
+                        "format": ","
+                    }
+                ]
+            }
+            
+        }
+    ]
+}

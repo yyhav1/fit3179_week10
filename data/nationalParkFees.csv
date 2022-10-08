@@ -1,0 +1,52 @@
+﻿Park,Name,ShortName,Unit Code,Park Type,Region,State,Latitude,Longitude,VehicleFee,Free
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast ,ME,44.35,-68.21,30,FALSE
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain ,UT,38.68,-109.57,30,FALSE
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest ,SD,43.75,-102.5,30,FALSE
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain ,TX,29.25,-103.25,30,FALSE
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast ,FL,25.65,-80.08,0,TRUE
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain ,CO,38.57,-107.72,30,FALSE
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain ,UT,37.57,-112.18,35,FALSE
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain ,UT,38.2,-109.93,30,FALSE
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain ,UT,38.2,-111.17,20,FALSE
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain ,NM,32.17,-104.44,0,TRUE
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West ,CA,34.01,-119.42,0,TRUE
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast ,SC,33.78,-80.78,0,TRUE
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West ,OR,42.94,-122.1,30,FALSE
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest ,OH,41.24,-81.55,0,TRUE
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West ,CA,36.24,-116.82,30,FALSE
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast ,FL,24.63,-82.87,0,TRUE
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast ,FL,25.32,-80.93,30,FALSE
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest ,MO,38.63,-90.19,0,TRUE
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain ,MT,48.8,-114,35,FALSE
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain ,AZ,36.06,-112.14,35,FALSE
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain ,WY,43.73,-110.8,35,FALSE
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West ,NV,38.98,-114.3,0,TRUE
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain ,CO,37.73,-105.51,25,FALSE
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast ,TN,35.68,-83.53,0,TRUE
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain ,TX,31.92,-104.87,0,TRUE
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest ,AR,34.51,-93.05,0,TRUE
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest ,IN,41.6533,-87.0524,25,FALSE
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest ,MI,48.1,-88.55,0,TRUE
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West ,CA,33.79,-115.9,30,FALSE
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West ,CA,36.8,-118.55,0,TRUE
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West ,CA,40.49,-121.51,30,FALSE
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast ,KY,37.18,-86.1,0,TRUE
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain ,CO,37.18,-108.49,30,FALSE
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West ,WA,46.85,-121.75,30,FALSE
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast ,WV,37.9,-81.04,25,FALSE
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West ,WA,48.7,-121.2,0,TRUE
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West ,WA,47.97,-123.5,30,FALSE
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain ,AZ,35.07,-109.78,25,FALSE
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West ,CA,36.48,-121.16,30,FALSE
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West ,CA,41.3,-124,0,TRUE
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain ,CO,40.4,-105.58,35,FALSE
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain ,AZ,32.25,-110.5,25,FALSE
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West ,CA,36.43,-118.68,0,TRUE
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast ,VA,38.53,-78.35,30,FALSE
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest ,ND,46.97,-103.45,30,FALSE
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest ,MN,48.5,-92.88,0,TRUE
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain ,NM,32.77,-106.17,25,FALSE
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest ,SD,43.57,-103.48,0,TRUE
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain ,WY,44.6,-110.5,35,FALSE
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West ,CA,37.83,-119.5,35,FALSE
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain ,UT,37.3,-113.05,35,FALSE

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Seasonal comparison of visitors",
+  "repeat": ["Summer", "Autumn", "Winter", "Spring"],
+  "columns": 2,
+  "spec": {
+    "projection": {"type": "albersUsa"},
+    "width": 400,
+    "height": 300,
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/js/ne_50m_admin_1_states_provinces.json",
+          "format": {
+            "type": "topojson",
+            "feature": "ne_50m_admin_1_states_provinces"
+          }
+        },
+        "mark": {"type": "geoshape", "fill": "#f0f2f5", "stroke": "darkgrey"}
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/data/nationalParkSeason.csv"
+        },
+        "mark": {"type": "circle"},
+        "encoding": {
+          "latitude": {"field": "Latitude", "type": "quantitative"},
+          "longitude": {"field": "Longitude", "type": "quantitative"},
+          "size": {
+            "field": {"repeat": "repeat"},
+            "type": "quantitative",
+            "scale": {
+              "type": "threshold",
+              "domain": [500000, 1000000, 2000000, 3000000, 4000000],
+              "range": [30, 75, 100, 150, 225, 300]
+            },
+            "legend": {"format": ".2s"},
+            "title": "Visitors"
+          }
+        }
+      },
+      {
+        "data": {
+          "values": [
+            {
+              "Summer": "Summer",
+              "Autumn": "Autumn",
+              "Winter": "Winter",
+              "Spring": "Spring"
+            }
+          ]
+        },
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "bottom",
+          "x": 200,
+          "y": 20
+        },
+        "encoding": {"text": {"field": {"repeat": "repeat"}}}
+      }
+    ]
+  }
+}

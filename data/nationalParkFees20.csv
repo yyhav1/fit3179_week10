@@ -1,0 +1,21 @@
+﻿Park,Name,ShortName,Unit Code,Park Type,Region,State,Latitude,Longitude,VehicleFee,Free
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast ,ME,44.35,-68.21,30,FALSE
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain ,UT,38.68,-109.57,30,FALSE
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain ,UT,37.57,-112.18,35,FALSE
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest ,OH,41.24,-81.55,0,TRUE
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest ,MO,38.63,-90.19,0,TRUE
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain ,MT,48.8,-114,35,FALSE
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain ,AZ,36.06,-112.14,35,FALSE
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain ,WY,43.73,-110.8,35,FALSE
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain ,CO,37.73,-105.51,25,FALSE
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast ,TN,35.68,-83.53,0,TRUE
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest ,AR,34.51,-93.05,0,TRUE
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest ,IN,41.6533,-87.0524,25,FALSE
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West ,CA,33.79,-115.9,30,FALSE
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West ,WA,46.85,-121.75,30,FALSE
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West ,WA,47.97,-123.5,30,FALSE
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain ,CO,40.4,-105.58,35,FALSE
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast ,VA,38.53,-78.35,30,FALSE
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain ,WY,44.6,-110.5,35,FALSE
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West ,CA,37.83,-119.5,35,FALSE
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain ,UT,37.3,-113.05,35,FALSE

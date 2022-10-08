@@ -1,0 +1,101 @@
+﻿Park,Name,ShortName,Unit Code,Park Type,Region,State,Year,Month,Date,Latitude,Longitude,Recreation Visits,Rank
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2012,1,Jan 1 2012,44.35,-68.21,2431052,10
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2013,1,Jan 1 2013,44.35,-68.21,2254922,10
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2014,1,Jan 1 2014,44.35,-68.21,2563129,9
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2015,1,Jan 1 2015,44.35,-68.21,2811184,9
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2016,1,Jan 1 2016,44.35,-68.21,3303393,8
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2017,1,Jan 1 2017,44.35,-68.21,3509271,7
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2018,1,Jan 1 2018,44.35,-68.21,3537575,7
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2019,1,Jan 1 2019,44.35,-68.21,3437286,7
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2020,1,Jan 1 2020,44.35,-68.21,2669034,8
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2021,1,Jan 1 2021,44.35,-68.21,4069098,6
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2012,1,Jan 1 2012,48.8,-114,2162035,12
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2013,1,Jan 1 2013,48.8,-114,2190374,11
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2014,1,Jan 1 2014,48.8,-114,2338528,9
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2015,1,Jan 1 2015,48.8,-114,2366056,10
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2016,1,Jan 1 2016,48.8,-114,2946681,10
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2017,1,Jan 1 2017,48.8,-114,3305512,10
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2018,1,Jan 1 2018,48.8,-114,2965309,10
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2019,1,Jan 1 2019,48.8,-114,3049839,10
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2020,1,Jan 1 2020,48.8,-114,1698864,13
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2021,1,Jan 1 2021,48.8,-114,3081656,10
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2012,1,Jan 1 2012,36.06,-112.14,4421352,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2013,1,Jan 1 2013,36.06,-112.14,4564840,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2014,1,Jan 1 2014,36.06,-112.14,4756771,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2015,1,Jan 1 2015,36.06,-112.14,5520736,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2016,1,Jan 1 2016,36.06,-112.14,5969811,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2017,1,Jan 1 2017,36.06,-112.14,6254238,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2018,1,Jan 1 2018,36.06,-112.14,6380495,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2019,1,Jan 1 2019,36.06,-112.14,5974411,2
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2020,1,Jan 1 2020,36.06,-112.14,2897098,6
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2021,1,Jan 1 2021,36.06,-112.14,4532677,4
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2012,1,Jan 1 2012,43.73,-110.8,2705256,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2013,1,Jan 1 2013,43.73,-110.8,2688794,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2014,1,Jan 1 2014,43.73,-110.8,2791392,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2015,1,Jan 1 2015,43.73,-110.8,3149921,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2016,1,Jan 1 2016,43.73,-110.8,3270076,9
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2017,1,Jan 1 2017,43.73,-110.8,3317000,9
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2018,1,Jan 1 2018,43.73,-110.8,3491151,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2019,1,Jan 1 2019,43.73,-110.8,3405614,8
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2020,1,Jan 1 2020,43.73,-110.8,3289638,5
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2021,1,Jan 1 2021,43.73,-110.8,3885230,7
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2012,1,Jan 1 2012,35.68,-83.53,9685829,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2013,1,Jan 1 2013,35.68,-83.53,9354695,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2014,1,Jan 1 2014,35.68,-83.53,10099276,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2015,1,Jan 1 2015,35.68,-83.53,10712674,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2016,1,Jan 1 2016,35.68,-83.53,11312786,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2017,1,Jan 1 2017,35.68,-83.53,11338893,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2018,1,Jan 1 2018,35.68,-83.53,11421200,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2019,1,Jan 1 2019,35.68,-83.53,12547743,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2020,1,Jan 1 2020,35.68,-83.53,12095720,1
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2021,1,Jan 1 2021,35.68,-83.53,14161548,1
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2012,1,Jan 1 2012,47.97,-123.5,2824908,7
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2013,1,Jan 1 2013,47.97,-123.5,3085340,5
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2014,1,Jan 1 2014,47.97,-123.5,3243872,6
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2015,1,Jan 1 2015,47.97,-123.5,3263761,7
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2016,1,Jan 1 2016,47.97,-123.5,3390221,7
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2017,1,Jan 1 2017,47.97,-123.5,3401996,8
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2018,1,Jan 1 2018,47.97,-123.5,3104455,9
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2019,1,Jan 1 2019,47.97,-123.5,3245806,9
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2020,1,Jan 1 2020,47.97,-123.5,2499177,9
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2021,1,Jan 1 2021,47.97,-123.5,2718925,12
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2012,1,Jan 1 2012,40.4,-105.58,3229617,5
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2013,1,Jan 1 2013,40.4,-105.58,2991141,6
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2014,1,Jan 1 2014,40.4,-105.58,3434751,5
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2015,1,Jan 1 2015,40.4,-105.58,4155916,3
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2016,1,Jan 1 2016,40.4,-105.58,4517585,4
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2017,1,Jan 1 2017,40.4,-105.58,4437215,4
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2018,1,Jan 1 2018,40.4,-105.58,4590493,3
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2019,1,Jan 1 2019,40.4,-105.58,4670053,3
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2020,1,Jan 1 2020,40.4,-105.58,3305199,4
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2021,1,Jan 1 2021,40.4,-105.58,4434848,5
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2012,1,Jan 1 2012,44.6,-110.5,3447729,4
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2013,1,Jan 1 2013,44.6,-110.5,3188030,4
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2014,1,Jan 1 2014,44.6,-110.5,3513484,4
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2015,1,Jan 1 2015,44.6,-110.5,4097710,5
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2016,1,Jan 1 2016,44.6,-110.5,4257177,6
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2017,1,Jan 1 2017,44.6,-110.5,4116524,6
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2018,1,Jan 1 2018,44.6,-110.5,4115000,5
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2019,1,Jan 1 2019,44.6,-110.5,4020288,6
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2020,1,Jan 1 2020,44.6,-110.5,3806306,2
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2021,1,Jan 1 2021,44.6,-110.5,4860242,3
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2012,1,Jan 1 2012,37.83,-119.5,3853404,3
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2013,1,Jan 1 2013,37.83,-119.5,3691191,3
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2014,1,Jan 1 2014,37.83,-119.5,3882642,3
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2015,1,Jan 1 2015,37.83,-119.5,4150217,4
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2016,1,Jan 1 2016,37.83,-119.5,5028868,3
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2017,1,Jan 1 2017,37.83,-119.5,4336890,5
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2018,1,Jan 1 2018,37.83,-119.5,4009436,6
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2019,1,Jan 1 2019,37.83,-119.5,4422861,5
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2020,1,Jan 1 2020,37.83,-119.5,2268313,12
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2021,1,Jan 1 2021,37.83,-119.5,3287595,8
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2012,1,Jan 1 2012,37.3,-113.05,2973607,6
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2013,1,Jan 1 2013,37.3,-113.05,2807387,7
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2014,1,Jan 1 2014,37.3,-113.05,3189696,7
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2015,1,Jan 1 2015,37.3,-113.05,3648846,6
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2016,1,Jan 1 2016,37.3,-113.05,4295127,5
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2017,1,Jan 1 2017,37.3,-113.05,4504812,3
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2018,1,Jan 1 2018,37.3,-113.05,4320033,4
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2019,1,Jan 1 2019,37.3,-113.05,4488268,4
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2020,1,Jan 1 2020,37.3,-113.05,3591254,3
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2021,1,Jan 1 2021,37.3,-113.05,5039835,2

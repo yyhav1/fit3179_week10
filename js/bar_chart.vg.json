@@ -1,0 +1,101 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 300,
+    "title": "Entrance fees per region",
+    "data": {
+        "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/data/nationalParkFees.csv"
+    },
+    "transform": [
+        {
+            "aggregate": [
+                {
+                    "op": "average",
+                    "field": "VehicleFee",
+                    "as": "average_fee"
+                }
+            ],
+            "groupby": ["Region"]
+        }
+    ],
+    "encoding": {
+        "x": {
+            "field": "Region", 
+            "type": "nominal",
+            "axis": {
+                "labelAngle": -30,
+                "labelAlign": "center",
+                "labelBaseline": "top",
+                "labelPadding": 15
+            },
+            "title": null,
+            "sort": {"field": "average_fee", "op": "average", "order": "ascending"}
+        },
+        "y": {
+            "field": "average_fee",
+            "type": "quantitative",
+            "title": "Average entrance fee"
+        },
+        "fillOpacity": {
+            "condition": {
+                    "param": "select",
+                    "empty": true,
+                    "value": 1
+                },
+            "value": 0.3
+        },
+        "strokeWidth": {
+            "condition": [
+                {
+                    "param": "select",
+                    "empty": false,
+                    "value": 3
+                },
+                {
+                    "param": "highlight",
+                    "empty": false,
+                    "value": 2
+                }
+            ],
+            "value": 0
+        },
+        "tooltip": [
+            {"field": "Region"},
+            {
+                "field": "average_fee",
+                "title": "Average fee",
+                "format": "$.2f"
+            }
+        ]
+    },
+    "layer": [
+        {
+            "mark": {
+                "type": "bar", 
+                "color": "#13660C", 
+                "stroke": "black", 
+                "cursor": "pointer", 
+                "width": {"band": 0.7},
+                "cornerRadiusEnd": 5
+            },
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {"type": "point", "on": "mouseover"}
+                },
+                {"name": "select", "select": "point"}
+            ]
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "center",
+                "baseline": "bottom",
+                "dy": -2
+            },
+            "encoding": {
+                "text": {"field": "average_fee", "type": "quantitative", "format": "$.2f"}
+            }
+        }
+    ]
+}

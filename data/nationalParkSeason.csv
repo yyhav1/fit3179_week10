@@ -1,0 +1,511 @@
+﻿Park,Name,ShortName,Unit Code,Park Type,Region,State,Year,Date,Recreation Visits,Tent Campers,RV Campers,Backcountry Campers,Latitude,Longitude,Summer,Autumn,Winter,Spring
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2012,Jan 1 2012,11930,0,0,0,44.35,-68.21,1422739,733127,35625,239561
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2013,Jan 1 2013,11249,0,0,0,44.35,-68.21,1488405,536485,28658,201374
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2014,Jan 1 2014,10459,0,0,0,44.35,-68.21,1538070,763106,34227,227726
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2015,Jan 1 2015,12578,0,0,0,44.35,-68.21,1633025,872594,37084,268481
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2016,Jan 1 2016,17204,0,0,0,44.35,-68.21,1878209,1037872,47845,339467
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2017,Jan 1 2017,15520,0,0,0,44.35,-68.21,1982156,1155988,41946,329181
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2018,Jan 1 2018,11974,0,0,0,44.35,-68.21,2025547,1129531,36833,345664
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2019,Jan 1 2019,8532,0,0,0,44.35,-68.21,2006894,1085478,30551,314363
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2020,Jan 1 2020,12640,0,0,0,44.35,-68.21,1376873,1057430,47359,187372
+Acadia NP,Acadia National Park,Acadia,ACAD,National Park,Northeast,ME,2021,Jan 1 2021,20268,0,0,0,44.35,-68.21,2239502,1306014,50772,472810
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2012,Jan 1 2012,14961,266,96,28,38.68,-109.57,428214,272281,51133,318949
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2013,Jan 1 2013,11099,110,26,4,38.68,-109.57,457946,245129,48449,331342
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2014,Jan 1 2014,17038,101,36,1,38.68,-109.57,513546,327707,66108,377406
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2015,Jan 1 2015,20699,288,137,14,38.68,-109.57,558007,336657,82227,422356
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2016,Jan 1 2016,20311,274,197,21,38.68,-109.57,610405,416560,86801,471952
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2017,Jan 1 2017,21549,338,113,0,38.68,-109.57,563591,398795,104122,472520
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2018,Jan 1 2018,31810,230,257,0,38.68,-109.57,603776,428405,114014,517362
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2019,Jan 1 2019,21499,48,55,0,38.68,-109.57,619089,431041,91119,518453
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2020,Jan 1 2020,28462,48,142,0,38.68,-109.57,522062,485646,134920,95455
+Arches NP,Arches National Park,Arches,ARCH,National Park,Intermountain,UT,2021,Jan 1 2021,48725,0,0,0,38.68,-109.57,618113,461347,156625,570780
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2012,Jan 1 2012,9660,0,0,0,43.75,-102.5,561570,161846,32980,127010
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2013,Jan 1 2013,11882,0,0,0,43.75,-102.5,611182,146222,30917,104051
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2014,Jan 1 2014,9548,11,8,0,43.75,-102.5,587188,147784,29039,104083
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2015,Jan 1 2015,10414,0,11,0,43.75,-102.5,668859,168993,34146,117356
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2016,Jan 1 2016,10826,0,0,0,43.75,-102.5,662474,180700,30913,122176
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2017,Jan 1 2017,10380,6,0,4,43.75,-102.5,714597,177831,31266,130631
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2018,Jan 1 2018,10610,2,4,5,43.75,-102.5,689858,166795,29803,122486
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2019,Jan 1 2019,8981,0,0,2,43.75,-102.5,660157,171439,25917,113485
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2020,Jan 1 2020,10145,0,0,1,43.75,-102.5,627182,168620,31020,90110
+Badlands NP,Badlands National Park,Badlands,BADL,National Park,Midwest,SD,2021,Jan 1 2021,14899,12,2,11,43.75,-102.5,780327,228850,34354,180695
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2012,Jan 1 2012,22059,3298,3101,1622,29.25,-103.25,47178,61919,85218,97740
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2013,Jan 1 2013,22986,3923,2902,1801,29.25,-103.25,44941,67565,91869,112578
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2014,Jan 1 2014,28410,4623,3141,2787,29.25,-103.25,54568,69526,73942,116066
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2015,Jan 1 2015,30297,5615,2901,2015,29.25,-103.25,57146,82602,99073,142926
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2016,Jan 1 2016,36716,5075,3755,3674,29.25,-103.25,50939,90655,113839,132857
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2017,Jan 1 2017,35105,6785,6226,4717,29.25,-103.25,60481,100567,117839,161389
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2018,Jan 1 2018,33434,5045,6263,3402,29.25,-103.25,56646,104170,118931,160344
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2019,Jan 1 2019,29318,159,403,422,29.25,-103.25,60213,114658,118412,170549
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2020,Jan 1 2020,43740,6561,7850,2992,29.25,-103.25,37595,140261,154638,61413
+Big Bend NP,Big Bend National Park,Big Bend,BIBE,National Park,Intermountain,TX,2021,Jan 1 2021,50298,8887,3968,3850,29.25,-103.25,81061,138268,151282,210609
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2012,Jan 1 2012,29877,742,0,0,25.65,-80.08,161536,100185,88783,145109
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2013,Jan 1 2013,33790,326,0,0,25.65,-80.08,164875,100763,88316,132894
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2014,Jan 1 2014,30437,324,0,0,25.65,-80.08,181388,103049,104693,136615
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2015,Jan 1 2015,34409,366,0,0,25.65,-80.08,164040,93413,88774,161937
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2016,Jan 1 2016,35755,206,0,0,25.65,-80.08,161755,102453,95156,155345
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2017,Jan 1 2017,30661,308,0,0,25.65,-80.08,152860,60128,100658,133315
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2018,Jan 1 2018,27638,346,0,0,25.65,-80.08,153637,95817,95356,124443
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2019,Jan 1 2019,50873,4,0,0,25.65,-80.08,171603,145253,171030,220636
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2020,Jan 1 2020,79041,78,0,0,25.65,-80.08,95832,58524,191312,57102
+Biscayne NP,Biscayne National Park,Biscayne,BISC,National Park,Southeast,FL,2021,Jan 1 2021,59970,300,0,0,25.65,-80.08,153095,152273,186408,213879
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2012,Jan 1 2012,509,6,0,0,38.57,-107.72,105175,43787,5079,38529
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2013,Jan 1 2013,4046,0,17,4,38.57,-107.72,92216,33030,11594,39012
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2014,Jan 1 2014,3469,6,0,0,38.57,-107.72,96501,43145,11179,32220
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2015,Jan 1 2015,4600,8,0,0,38.57,-107.72,105666,52054,13406,38040
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2016,Jan 1 2016,5510,19,3,0,38.57,-107.72,115846,66237,15159,40776
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2017,Jan 1 2017,6925,19,8,0,38.57,-107.72,125936,120222,13328,47657
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2018,Jan 1 2018,7600,8,11,0,38.57,-107.72,133779,90651,16563,67969
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2019,Jan 1 2019,4921,3,0,0,38.57,-107.72,206703,96932,16728,112455
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2020,Jan 1 2020,8107,3,14,0,38.57,-107.72,147201,119245,23546,51628
+Black Canyon of the Gunnison NP,Black Canyon of the Gunnison National Park,Black Canyon of the Gunnison,BLCA,National Park,Intermountain,CO,2021,Jan 1 2021,8759,25,47,0,38.57,-107.72,148907,79997,23882,56124
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2012,Jan 1 2012,16265,67,62,3,37.57,-112.18,630671,401634,57415,295632
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2013,Jan 1 2013,15788,55,14,6,37.57,-112.18,643881,306497,56677,304820
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2014,Jan 1 2014,18006,77,67,0,37.57,-112.18,662175,393163,68749,311654
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2015,Jan 1 2015,21949,86,182,17,37.57,-112.18,819928,454579,86407,384890
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2016,Jan 1 2016,24285,175,89,0,37.57,-112.18,1130482,615341,97140,522147
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2017,Jan 1 2017,27774,26,252,7,37.57,-112.18,1197358,698465,109766,566095
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2018,Jan 1 2018,32433,372,158,22,37.57,-112.18,1233308,711806,113527,620837
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2019,Jan 1 2019,36860,86,103,0,37.57,-112.18,1183718,690270,110027,610889
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2020,Jan 1 2020,32744,161,168,0,37.57,-112.18,633179,589786,123756,117934
+Bryce Canyon NP,Bryce Canyon National Park,Bryce Canyon,BRCA,National Park,Intermountain,UT,2021,Jan 1 2021,37725,444,230,8,37.57,-112.18,845111,548147,117909,593433
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2012,Jan 1 2012,5822,176,81,187,38.2,-109.93,152915,126905,19261,153871
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2013,Jan 1 2013,3617,90,213,134,38.2,-109.93,165332,115372,15260,166278
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2014,Jan 1 2014,5182,99,247,53,38.2,-109.93,182669,155816,29077,174869
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2015,Jan 1 2015,6376,147,64,102,38.2,-109.93,220686,174229,27254,212438
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2016,Jan 1 2016,5050,147,31,54,38.2,-109.93,261900,206901,33879,273538
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2017,Jan 1 2017,7434,102,100,75,38.2,-109.93,241228,205896,40117,255030
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2018,Jan 1 2018,9575,123,189,149,38.2,-109.93,228721,212862,35818,262048
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2019,Jan 1 2019,7146,36,79,115,38.2,-109.93,226264,212041,30574,265117
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2020,Jan 1 2020,9051,67,84,120,38.2,-109.93,193499,234338,45283,20794
+Canyonlands NP,Canyonlands National Park,Canyonlands,CANY,National Park,Intermountain,UT,2021,Jan 1 2021,18837,192,250,229,38.2,-109.93,258283,253292,61269,338750
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2012,Jan 1 2012,10752,37,21,7,38.2,-111.17,255872,200072,26200,191201
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2013,Jan 1 2013,5915,19,27,0,38.2,-111.17,255231,179926,21799,206714
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2014,Jan 1 2014,10548,49,26,8,38.2,-111.17,280241,241216,33206,231851
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2015,Jan 1 2015,9083,46,55,16,38.2,-111.17,368458,272689,35138,264744
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2016,Jan 1 2016,10714,26,33,23,38.2,-111.17,363649,327258,44668,329329
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2017,Jan 1 2017,10546,92,68,11,38.2,-111.17,387047,335319,46647,381152
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2018,Jan 1 2018,15526,245,73,22,38.2,-111.17,411318,347794,53550,414965
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2019,Jan 1 2019,11893,90,39,0,38.2,-111.17,408123,359580,41404,417412
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2020,Jan 1 2020,14155,88,67,5,38.2,-111.17,387766,372161,71390,149721
+Capitol Reef NP,Capitol Reef National Park,Capitol Reef,CARE,National Park,Intermountain,UT,2021,Jan 1 2021,20786,154,181,17,38.2,-111.17,434437,392263,76221,502432
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2012,Jan 1 2012,14044,0,0,9,32.17,-104.44,152034,67311,50998,110715
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2013,Jan 1 2013,13354,0,0,15,32.17,-104.44,166422,55389,50799,115956
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2014,Jan 1 2014,16251,0,0,17,32.17,-104.44,163244,62179,56578,115308
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2015,Jan 1 2015,11930,0,0,3,32.17,-104.44,188678,80168,44282,132592
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2016,Jan 1 2016,13534,0,0,12,32.17,-104.44,194387,94418,58755,119213
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2017,Jan 1 2017,17746,0,0,26,32.17,-104.44,186108,97724,69061,167133
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2018,Jan 1 2018,19172,0,0,10,32.17,-104.44,176509,102649,49168,137586
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2019,Jan 1 2019,3093,0,0,0,32.17,-104.44,162909,88988,53154,135640
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2020,Jan 1 2020,21319,0,0,3,32.17,-104.44,45981,47406,59047,31401
+Carlsbad Caverns NP,Carlsbad Caverns National Park,Carlsbad Caverns,CAVE,National Park,Intermountain,NM,2021,Jan 1 2021,16219,0,0,30,32.17,-104.44,116571,87795,59064,85814
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2012,Jan 1 2012,15786,0,0,229,34.01,-119.42,98900,49770,35835,65089
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2013,Jan 1 2013,12800,0,0,370,34.01,-119.42,79067,39682,37803,55477
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2014,Jan 1 2014,18927,0,0,267,34.01,-119.42,133262,63294,54929,90676
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2015,Jan 1 2015,19847,0,0,304,34.01,-119.42,115334,65778,56301,87403
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2016,Jan 1 2016,15710,0,0,279,34.01,-119.42,133584,88385,55166,87672
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2017,Jan 1 2017,18887,0,0,298,34.01,-119.42,141796,82254,55958,103679
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2018,Jan 1 2018,15986,0,0,284,34.01,-119.42,128358,79814,56229,101849
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2019,Jan 1 2019,9193,0,0,691,34.01,-119.42,142289,100584,53518,113239
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2020,Jan 1 2020,18955,0,0,170,34.01,-119.42,47525,61194,42284,16287
+Channel Islands NP,Channel Islands National Park,Channel Islands,CHIS,National Park,Pacific West,CA,2021,Jan 1 2021,1684,0,0,8,34.01,-119.42,119197,103063,32327,64665
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2012,Jan 1 2012,8132,0,0,132,33.78,-80.78,21838,28975,21279,37593
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2013,Jan 1 2013,10098,0,0,100,33.78,-80.78,31900,26058,23197,39185
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2014,Jan 1 2014,7994,0,0,21,33.78,-80.78,27068,31982,22773,38299
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2015,Jan 1 2015,3435,0,0,34,33.78,-80.78,21550,16973,16048,32942
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2016,Jan 1 2016,6850,0,0,0,33.78,-80.78,32873,35187,25968,49815
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2017,Jan 1 2017,7458,0,0,71,33.78,-80.78,38020,32840,29314,59421
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2018,Jan 1 2018,7186,0,0,34,33.78,-80.78,36012,24236,27768,57913
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2019,Jan 1 2019,7000,0,0,0,33.78,-80.78,35246,33979,28905,61315
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2020,Jan 1 2020,9672,0,0,8,33.78,-80.78,25959,47887,34530,10930
+Congaree NP,Congaree National Park,Congaree,CONG,National Park,Southeast,SC,2021,Jan 1 2021,14159,0,0,82,33.78,-80.78,47568,54851,45529,67233
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2012,Jan 1 2012,7969,0,0,103,42.94,-122.1,276282,104368,13598,53003
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2013,Jan 1 2013,6325,0,0,68,42.94,-122.1,300103,92459,21209,109256
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2014,Jan 1 2014,7501,0,0,112,42.94,-122.1,322983,133928,22213,56384
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2015,Jan 1 2015,10489,0,0,162,42.94,-122.1,329975,183970,21694,79073
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2016,Jan 1 2016,3112,0,0,129,42.94,-122.1,490031,181070,15266,69977
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2017,Jan 1 2017,1935,0,0,112,42.94,-122.1,502233,135258,12354,61904
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2018,Jan 1 2018,9220,0,0,147,42.94,-122.1,425040,190528,21860,83231
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2019,Jan 1 2019,3120,0,0,100,42.94,-122.1,468105,156744,14157,65506
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2020,Jan 1 2020,3492,0,0,48,42.94,-122.1,491777,138976,32943,6804
+Crater Lake NP,Crater Lake National Park,Crater Lake,CRLA,National Park,Pacific West,OR,2021,Jan 1 2021,8026,0,0,120,42.94,-122.1,396246,130758,23009,97738
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2012,Jan 1 2012,86320,0,0,0,41.24,-81.55,846233,562129,289562,601798
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2013,Jan 1 2013,84333,0,0,0,41.24,-81.55,832948,444046,279302,546714
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2014,Jan 1 2014,89704,0,0,0,41.24,-81.55,806261,559483,282830,541275
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2015,Jan 1 2015,76795,0,0,0,41.24,-81.55,857281,564056,264214,599061
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2016,Jan 1 2016,85195,0,0,0,41.24,-81.55,974898,631559,285467,531466
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2017,Jan 1 2017,94019,0,0,0,41.24,-81.55,814897,585666,291650,534666
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2018,Jan 1 2018,87889,0,0,0,41.24,-81.55,777417,538697,284122,495817
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2019,Jan 1 2019,88020,0,0,0,41.24,-81.55,854623,572718,280868,529788
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2020,Jan 1 2020,86140,0,0,0,41.24,-81.55,1024671,742368,286887,701702
+Cuyahoga Valley NP,Cuyahoga Valley National Park,Cuyahoga Valley,CUVA,National Park,Midwest,OH,2021,Jan 1 2021,86000,0,0,0,41.24,-81.55,925325,708547,292269,649134
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2012,Jan 1 2012,61713,6765,10746,0,36.24,-116.82,284293,244723,191292,264260
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2013,Jan 1 2013,60868,5888,8890,0,36.24,-116.82,245934,229233,179031,297774
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2014,Jan 1 2014,59718,6646,6506,0,36.24,-116.82,283838,287692,209546,320236
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2015,Jan 1 2015,79547,7760,11536,0,36.24,-116.82,320635,264154,231144,338910
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2016,Jan 1 2016,69229,7504,9814,0,36.24,-116.82,273835,351884,249954,420610
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2017,Jan 1 2017,66867,9450,10243,0,36.24,-116.82,392479,341237,239773,321338
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2018,Jan 1 2018,80396,9768,11558,221,36.24,-116.82,436012,453153,326333,463162
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2019,Jan 1 2019,111954,1600,1139,221,36.24,-116.82,430132,439059,360127,511627
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2020,Jan 1 2020,99063,11338,14870,223,36.24,-116.82,111357,237058,320789,150819
+Death Valley NP,Death Valley National Park,Death Valley,DEVA,National Park,Pacific West,CA,2021,Jan 1 2021,80263,531,451,267,36.24,-116.82,151761,297919,304007,392864
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2012,Jan 1 2012,6072,256,0,0,24.63,-82.87,14084,9091,16804,20571
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2013,Jan 1 2013,7565,232,0,0,24.63,-82.87,16194,8397,16803,17007
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2014,Jan 1 2014,4907,74,0,0,24.63,-82.87,17052,11476,15527,20810
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2015,Jan 1 2015,6092,202,0,0,24.63,-82.87,19937,12658,16918,21349
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2016,Jan 1 2016,4616,350,0,0,24.63,-82.87,23495,16938,12237,20991
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2017,Jan 1 2017,4492,410,0,0,24.63,-82.87,15472,5429,13392,19988
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2018,Jan 1 2018,4236,316,0,0,24.63,-82.87,18500,10409,11996,15905
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2019,Jan 1 2019,6179,878,0,0,24.63,-82.87,22391,14462,19086,23261
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2020,Jan 1 2020,5911,458,0,0,24.63,-82.87,12288,13795,18278,4182
+Dry Tortugas NP,Dry Tortugas National Park,Dry Tortugas,DRTO,National Park,Southeast,FL,2021,Jan 1 2021,7519,312,0,0,24.63,-82.87,21329,19636,19812,23040
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2012,Jan 1 2012,128689,2142,3345,1652,25.32,-80.93,193730,233778,409106,305292
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2013,Jan 1 2013,142377,2269,2741,1547,25.32,-80.93,181106,168982,387945,309083
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2014,Jan 1 2014,127802,2466,3026,190,25.32,-80.93,196535,198795,387507,328064
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2015,Jan 1 2015,142660,2957,3079,3890,25.32,-80.93,201936,179654,366761,329076
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2016,Jan 1 2016,116221,1760,2815,1061,25.32,-80.93,164525,169424,323541,273417
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2017,Jan 1 2017,194200,1675,3374,3061,25.32,-80.93,206442,109875,402207,300033
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2018,Jan 1 2018,33950,0,0,2688,25.32,-80.93,94295,170907,220077,111845
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2019,Jan 1 2019,85838,0,0,1528,25.32,-80.93,211838,234334,316556,355572
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2020,Jan 1 2020,95635,0,0,3108,25.32,-80.93,160272,71692,341208,129147
+Everglades NP,Everglades National Park,Everglades,EVER,National Park,Southeast,FL,2021,Jan 1 2021,123528,0,0,7524,25.32,-80.93,228637,155808,285344,272341
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2012,Jan 1 2012,56326,0,0,0,38.63,-90.19,1333832,396972,209004,556918
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2013,Jan 1 2013,57737,0,0,0,38.63,-90.19,1348785,326289,188745,513439
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2014,Jan 1 2014,46152,0,0,0,38.63,-90.19,854110,302676,152031,508274
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2015,Jan 1 2015,51474,0,0,0,38.63,-90.19,756257,335704,158635,448060
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2016,Jan 1 2016,16552,0,0,0,38.63,-90.19,645386,323698,57329,245442
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2017,Jan 1 2017,30163,0,0,0,38.63,-90.19,649758,324449,137515,286466
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2018,Jan 1 2018,40170,0,0,0,38.63,-90.19,1089124,385478,144924,396654
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2019,Jan 1 2019,18962,0,0,0,38.63,-90.19,1089014,342370,155414,468511
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2020,Jan 1 2020,51753,0,0,0,38.63,-90.19,116263,110406,144240,115112
+Gateway Arch NP,Gateway Arch National Park,Gateway Arch,JEFF,National Park,Midwest,MO,2021,Jan 1 2021,25026,0,0,0,38.63,-90.19,599281,231423,110536,203841
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2012,Jan 1 2012,10318,2,6,21,48.8,-114,1547845,427260,30374,156556
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2013,Jan 1 2013,10836,18,90,31,48.8,-114,1615630,396360,32706,145678
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2014,Jan 1 2014,12111,28,36,44,48.8,-114,1708843,441897,33720,154068
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2015,Jan 1 2015,12087,30,45,43,48.8,-114,1682742,442190,39974,201150
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2016,Jan 1 2016,15674,20,27,52,48.8,-114,2052063,589212,45099,260307
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2017,Jan 1 2017,14690,35,72,29,48.8,-114,2539106,489200,41760,235446
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2018,Jan 1 2018,12222,15,24,18,48.8,-114,2129951,547230,42850,245278
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2019,Jan 1 2019,13581,10,42,0,48.8,-114,2195673,587325,39958,226883
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2020,Jan 1 2020,13651,8,12,15,48.8,-114,1115799,498821,59867,24377
+Glacier NP,Glacier National Park,Glacier,GLAC,National Park,Intermountain,MT,2021,Jan 1 2021,23417,58,48,41,48.8,-114,2054733,709252,58284,259387
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2012,Jan 1 2012,141357,336,138,5482,36.06,-112.14,1808321,1047077,468694,1097260
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2013,Jan 1 2013,143405,400,81,4233,36.06,-112.14,1975048,881140,504776,1203876
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2014,Jan 1 2014,173458,449,182,5780,36.06,-112.14,1856355,1155997,606438,1137981
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2015,Jan 1 2015,191781,257,109,6503,36.06,-112.14,2123261,1243011,688574,1465890
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2016,Jan 1 2016,189103,357,158,7848,36.06,-112.14,2282665,1429001,700337,1557808
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2017,Jan 1 2017,217102,508,221,8246,36.06,-112.14,2309787,1451097,794362,1698992
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2018,Jan 1 2018,257366,678,298,9087,36.06,-112.14,2218065,1579671,892356,1690403
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2019,Jan 1 2019,225056,1046,490,8692,36.06,-112.14,2101577,1478257,762486,1632091
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2020,Jan 1 2020,246460,1479,674,8529,36.06,-112.14,886170,946342,745187,319399
+Grand Canyon NP,Grand Canyon National Park,Grand Canyon,GRCA,National Park,Intermountain,AZ,2021,Jan 1 2021,164922,2237,1004,8955,36.06,-112.14,1525980,1177026,606943,1222728
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2012,Jan 1 2012,38762,0,0,213,43.73,-110.8,1731907,607140,110882,255327
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2013,Jan 1 2013,39871,0,33,283,43.73,-110.8,1762204,526212,118274,282104
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2014,Jan 1 2014,44783,0,0,135,43.73,-110.8,1816820,557723,124110,292739
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2015,Jan 1 2015,46952,0,0,110,43.73,-110.8,1964548,704078,139847,341448
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2016,Jan 1 2016,47501,0,0,0,43.73,-110.8,1995064,729144,139101,406767
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2017,Jan 1 2017,45377,0,0,122,43.73,-110.8,2093419,715656,140573,367352
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2018,Jan 1 2018,54298,0,0,284,43.73,-110.8,2114854,810973,150622,414702
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2019,Jan 1 2019,56635,0,0,0,43.73,-110.8,2103251,751884,146981,403498
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2020,Jan 1 2020,51648,0,0,6,43.73,-110.8,1934165,1012001,168261,175211
+Grand Teton NP,Grand Teton National Park,Grand Teton,GRTE,National Park,Intermountain,WY,2021,Jan 1 2021,66585,0,0,117,43.73,-110.8,2296861,889507,171493,527369
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2012,Jan 1 2012,1339,21,42,28,38.98,-114.3,45482,26209,5527,17632
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2013,Jan 1 2013,883,18,38,58,38.98,-114.3,49236,20645,4526,18486
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2014,Jan 1 2014,939,21,46,37,38.98,-114.3,55529,27456,5117,19424
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2015,Jan 1 2015,887,18,38,30,38.98,-114.3,56738,30970,5990,22425
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2016,Jan 1 2016,838,14,35,18,38.98,-114.3,69163,37230,4229,34224
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2017,Jan 1 2017,1144,28,56,3,38.98,-114.3,77498,39127,4855,46548
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2018,Jan 1 2018,1767,0,0,0,38.98,-114.3,63470,47700,6482,35442
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2019,Jan 1 2019,689,0,18,0,38.98,-114.3,71210,37837,2748,20007
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2020,Jan 1 2020,2619,21,28,0,38.98,-114.3,59387,46023,6742,8096
+Great Basin NP,Great Basin National Park,Great Basin,GRBA,National Park,Pacific West,NV,2021,Jan 1 2021,1306,70,91,5,38.98,-114.3,76796,37612,4199,26268
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2012,Jan 1 2012,1596,56,30,17,37.73,-105.51,651693,325696,87071,318409
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2013,Jan 1 2013,1399,30,13,2,37.73,-105.51,634359,307989,91427,280889
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2014,Jan 1 2014,1404,0,0,10,37.73,-105.51,738822,294915,96033,266803
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2015,Jan 1 2015,1354,0,0,7,37.73,-105.51,706994,356268,75901,339103
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2016,Jan 1 2016,1503,0,0,20,37.73,-105.51,726902,403271,113735,342331
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2017,Jan 1 2017,3173,0,0,21,37.73,-105.51,797926,362759,106425,388483
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2018,Jan 1 2018,3551,0,0,57,37.73,-105.51,731416,368095,122298,453723
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2019,Jan 1 2019,4404,0,0,2,37.73,-105.51,832311,422441,98304,370211
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2020,Jan 1 2020,5232,0,0,15,37.73,-105.51,749650,408205,114776,243275
+Great Sand Dunes NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,GRSA,National Park,Intermountain,CO,2021,Jan 1 2021,4824,0,0,192,37.73,-105.51,1052308,583754,135716,513555
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2012,Jan 1 2012,269282,198,213,2739,35.68,-83.53,3675148,2750851,1103199,2156631
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2013,Jan 1 2013,265633,198,209,2260,35.68,-83.53,3761409,2596283,1008772,1988231
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2014,Jan 1 2014,275353,182,114,1547,35.68,-83.53,3963653,2918151,1082131,2135341
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2015,Jan 1 2015,373315,377,218,1951,35.68,-83.53,3958131,3157753,1185114,2411676
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2016,Jan 1 2016,379730,472,218,2329,35.68,-83.53,4012372,3442576,1201983,2655855
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2017,Jan 1 2017,382161,466,364,1832,35.68,-83.53,4032407,3435775,1405075,2465636
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2018,Jan 1 2018,320864,520,236,1435,35.68,-83.53,4065374,3500412,1360377,2495037
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2019,Jan 1 2019,496743,520,236,1231,35.68,-83.53,4494221,3532758,1639144,2881620
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2020,Jan 1 2020,438509,160,19,1433,35.68,-83.53,4806101,4230989,1642932,1415698
+Great Smoky Mountains NP,Great Smoky Mountains National Park,Great Smoky Mountains,GRSM,National Park,Southeast,TN,2021,Jan 1 2021,525801,571,1712,2289,35.68,-83.53,4668395,4144373,1885068,3463712
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2012,Jan 1 2012,7733,245,155,91,31.92,-104.87,33537,50429,25146,50248
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2013,Jan 1 2013,7242,192,224,55,31.92,-104.87,38214,31310,27474,48672
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2014,Jan 1 2014,6265,377,262,103,31.92,-104.87,39975,42269,26424,58200
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2015,Jan 1 2015,6763,389,219,110,31.92,-104.87,42966,40938,27204,58427
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2016,Jan 1 2016,8499,474,249,143,31.92,-104.87,37982,55772,32693,55392
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2017,Jan 1 2017,12105,801,510,134,31.92,-104.87,41150,48093,47797,88217
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2018,Jan 1 2018,8327,597,422,158,31.92,-104.87,41800,53272,28703,48572
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2019,Jan 1 2019,1049,40,97,2,31.92,-104.87,38448,50831,25549,74005
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2020,Jan 1 2020,14151,654,810,118,31.92,-104.87,17640,65608,46182,21826
+Guadalupe Mountains NP,Guadalupe Mountains National Park,Guadalupe Mountains,GUMO,National Park,Intermountain,TX,2021,Jan 1 2021,13801,792,684,292,31.92,-104.87,47873,61757,52059,81602
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2012,Jan 1 2012,64057,74,186,0,34.51,-93.05,464472,356648,173438,307947
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2013,Jan 1 2013,49392,82,295,0,34.51,-93.05,440229,360872,185161,339457
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2014,Jan 1 2014,57054,156,473,0,34.51,-93.05,512194,357245,189803,365242
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2015,Jan 1 2015,74443,125,520,0,34.51,-93.05,473226,376308,226113,342515
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2016,Jan 1 2016,71988,78,862,0,34.51,-93.05,520738,426880,230896,365786
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2017,Jan 1 2017,78452,26,1489,0,34.51,-93.05,551060,374947,269561,366048
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2018,Jan 1 2018,73050,29,1384,0,34.51,-93.05,497129,384814,244250,380694
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2019,Jan 1 2019,73964,0,250,0,34.51,-93.05,470036,390310,231606,375201
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2020,Jan 1 2020,40840,901,3412,0,34.51,-93.05,483583,387563,169196,307873
+Hot Springs NP,Hot Springs National Park,Hot Springs,HOSP,National Park,Midwest,AR,2021,Jan 1 2021,62618,78,1337,0,34.51,-93.05,938474,411590,228072,584748
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2012,Jan 1 2012,58521,0,0,0,41.6533,-87.0524,892826,456213,166430,373912
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2013,Jan 1 2013,54937,0,0,0,41.6533,-87.0524,880703,331914,146719,322359
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2014,Jan 1 2014,40701,0,0,0,41.6533,-87.0524,754269,311446,151289,336368
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2015,Jan 1 2015,55607,0,0,0,41.6533,-87.0524,798801,345801,167479,328114
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2016,Jan 1 2016,56588,0,0,0,41.6533,-87.0524,771353,377200,183625,366045
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2017,Jan 1 2017,60576,0,0,0,41.6533,-87.0524,1029944,575375,210536,342616
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2018,Jan 1 2018,70652,0,0,0,41.6533,-87.0524,865858,352829,171335,366057
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2019,Jan 1 2019,69916,0,0,0,41.6533,-87.0524,1042640,391884,230426,469335
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2020,Jan 1 2020,82444,0,0,0,41.6533,-87.0524,1158602,532260,263271,338973
+Indiana Dunes NP,Indiana Dunes National Park,Indiana Dunes,INDU,National Park,Midwest,IN,2021,Jan 1 2021,86065,0,0,0,41.6533,-87.0524,1351196,742217,281943,801854
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2012,Jan 1 2012,31,0,0,0,48.1,-88.55,13618,2123,113,809
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2013,Jan 1 2013,21,0,0,0,48.1,-88.55,14145,1433,71,625
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2014,Jan 1 2014,11,0,0,0,48.1,-88.55,12623,1425,51,461
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2015,Jan 1 2015,12,0,0,0,48.1,-88.55,15449,2089,80,1066
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2016,Jan 1 2016,26,0,0,0,48.1,-88.55,20485,3216,121,1144
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2017,Jan 1 2017,47,0,0,0,48.1,-88.55,23039,3370,195,1592
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2018,Jan 1 2018,32,0,0,0,48.1,-88.55,20860,3697,150,1091
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2019,Jan 1 2019,4,0,0,0,48.1,-88.55,21349,3791,99,1171
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2020,Jan 1 2020,47,0,0,0,48.1,-88.55,4894,1462,96,41
+Isle Royale NP,Isle Royale National Park,Isle Royale,ISRO,National Park,Midwest,MI,2021,Jan 1 2021,0,0,0,0,48.1,-88.55,21095,3504,0,1245
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2012,Jan 1 2012,109800,15164,4890,948,33.79,-115.9,215756,329070,369674,481617
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2013,Jan 1 2013,114833,16328,4692,968,33.79,-115.9,241285,247266,373734,521055
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2014,Jan 1 2014,101069,12956,4539,933,33.79,-115.9,249643,397630,433682,508949
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2015,Jan 1 2015,169097,21516,8544,1251,33.79,-115.9,320258,486851,567797,650850
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2016,Jan 1 2016,193843,21376,8034,1614,33.79,-115.9,408231,625591,681055,790409
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2017,Jan 1 2017,240124,23852,8028,1511,33.79,-115.9,392807,687862,784661,988289
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2018,Jan 1 2018,297435,21480,10029,1508,33.79,-115.9,425998,670236,867939,978209
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2019,Jan 1 2019,195993,21540,8565,1510,33.79,-115.9,447429,685519,760699,1094900
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2020,Jan 1 2020,268187,20344,10212,1443,33.79,-115.9,465694,782296,835121,316431
+Joshua Tree NP,Joshua Tree National Park,Joshua Tree,JOTR,National Park,Pacific West,CA,2021,Jan 1 2021,229995,536,498,0,33.79,-115.9,429781,711131,879093,1044395
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2012,Jan 1 2012,20730,238,64,1,36.8,-118.55,298338,134879,57157,100659
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2013,Jan 1 2013,17525,92,76,0,36.8,-118.55,289283,115996,44079,118186
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2014,Jan 1 2014,11139,436,169,1,36.8,-118.55,244171,119358,44247,94492
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2015,Jan 1 2015,20698,372,216,3,36.8,-118.55,238627,86087,40627,102765
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2016,Jan 1 2016,18269,258,73,1,36.8,-118.55,297195,159007,46578,104699
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2017,Jan 1 2017,15418,191,67,0,36.8,-118.55,339602,169242,50222,133866
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2018,Jan 1 2018,19675,420,229,0,36.8,-118.55,331398,170221,64660,132744
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2019,Jan 1 2019,20295,83,108,0,36.8,-118.55,306061,161763,43718,120568
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2020,Jan 1 2020,19845,235,118,0,36.8,-118.55,258326,104087,46059,6605
+Kings Canyon NP,Kings Canyon National Park,Kings Canyon,KICA,National Park,Pacific West,CA,2021,Jan 1 2021,27701,0,0,2,36.8,-118.55,300067,61962,62971,137918
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2012,Jan 1 2012,6702,39,27,77,40.49,-121.51,246184,101820,19476,40173
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2013,Jan 1 2013,14298,24,9,78,40.49,-121.51,275230,83300,26658,42221
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2014,Jan 1 2014,5787,42,24,16,40.49,-121.51,258862,106146,21942,46027
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2015,Jan 1 2015,9084,51,108,120,40.49,-121.51,276245,117180,24402,50265
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2016,Jan 1 2016,9627,39,102,70,40.49,-121.51,300265,161400,23787,50616
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2017,Jan 1 2017,9231,57,93,98,40.49,-121.51,293228,139508,25827,48693
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2018,Jan 1 2018,10263,90,33,94,40.49,-121.51,281010,130230,25062,63133
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2019,Jan 1 2019,8646,3,3,7,40.49,-121.51,267447,176809,27192,45591
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2020,Jan 1 2020,10770,15,129,27,40.49,-121.51,339135,157302,35796,10041
+Lassen Volcanic NP,Lassen Volcanic National Park,Lassen Volcanic,LAVO,National Park,Pacific West,CA,2021,Jan 1 2021,10455,72,174,82,40.49,-121.51,226220,26340,25449,81626
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2012,Jan 1 2012,7845,20,0,82,37.18,-86.1,235442,91838,29503,151271
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2013,Jan 1 2013,7795,40,12,98,37.18,-86.1,254207,70136,29343,140855
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2014,Jan 1 2014,7874,0,0,107,37.18,-86.1,251406,97477,30183,143562
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2015,Jan 1 2015,10855,36,0,94,37.18,-86.1,283747,106170,33779,143199
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2016,Jan 1 2016,11253,24,8,107,37.18,-86.1,272069,124197,36513,153735
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2017,Jan 1 2017,9842,24,4,131,37.18,-86.1,281993,113083,36321,156456
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2018,Jan 1 2018,7719,40,8,197,37.18,-86.1,238275,110846,26540,157545
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2019,Jan 1 2019,3651,0,0,3,37.18,-86.1,251831,114485,30824,154450
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2020,Jan 1 2020,14165,0,0,60,37.18,-86.1,111214,93324,39345,46509
+Mammoth Cave NP,Mammoth Cave National Park,Mammoth Cave,MACA,National Park,Southeast,KY,2021,Jan 1 2021,9297,177,0,88,37.18,-86.1,207470,140871,40964,126469
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2012,Jan 1 2012,6288,0,0,0,37.18,-108.49,266040,112041,19620,91159
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2013,Jan 1 2013,5758,0,0,0,37.18,-108.49,270626,80888,19505,89218
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2014,Jan 1 2014,6199,0,0,0,37.18,-108.49,284427,98208,18129,100799
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2015,Jan 1 2015,5813,0,0,0,37.18,-108.49,302690,122859,20360,101416
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2016,Jan 1 2016,6222,0,0,0,37.18,-108.49,317525,137482,21529,106991
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2017,Jan 1 2017,5601,0,0,0,37.18,-108.49,327518,143211,23236,119823
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2018,Jan 1 2018,8309,0,0,0,37.18,-108.49,289623,129489,24120,120188
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2019,Jan 1 2019,95,0,0,0,37.18,-108.49,308530,128336,11252,108085
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2020,Jan 1 2020,6872,0,0,0,37.18,-108.49,154857,96154,23244,13222
+Mesa Verde NP,Mesa Verde National Park,Mesa Verde,MEVE,National Park,Intermountain,CO,2021,Jan 1 2021,7038,0,0,0,37.18,-108.49,298686,124395,21841,103555
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2012,Jan 1 2012,14361,0,0,574,46.85,-121.75,624369,272613,48167,104029
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2013,Jan 1 2013,21735,0,0,621,46.85,-121.75,752241,252388,56279,87644
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2014,Jan 1 2014,23824,0,0,878,46.85,-121.75,745839,361657,49582,107181
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2015,Jan 1 2015,28663,0,0,315,46.85,-121.75,691666,327246,68940,149379
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2016,Jan 1 2016,34786,0,0,745,46.85,-121.75,797658,298925,87308,173022
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2017,Jan 1 2017,27204,0,0,749,46.85,-121.75,842096,343325,75190,155256
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2018,Jan 1 2018,23928,0,0,652,46.85,-121.75,894896,386495,70954,166146
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2019,Jan 1 2019,12933,0,0,25,46.85,-121.75,963146,306769,63837,167869
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2020,Jan 1 2020,12164,0,0,25,46.85,-121.75,731142,334381,61145,34086
+Mount Rainier NP,Mount Rainier National Park,Mount Rainier,MORA,National Park,Pacific West,WA,2021,Jan 1 2021,42161,0,0,557,46.85,-121.75,1048157,399747,69692,152467
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2012,Jan 1 2012,17971,38,25,0,37.9,-81.04,651693,325696,87071,318409
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2013,Jan 1 2013,20840,38,25,0,37.9,-81.04,634359,307989,91427,280889
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2014,Jan 1 2014,18133,45,15,0,37.9,-81.04,738822,294915,96033,266803
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2015,Jan 1 2015,14903,68,0,0,37.9,-81.04,706994,356268,75901,339103
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2016,Jan 1 2016,27770,68,8,0,37.9,-81.04,726902,403271,113735,342331
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2017,Jan 1 2017,24932,52,10,0,37.9,-81.04,797926,362759,106425,388483
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2018,Jan 1 2018,40106,55,12,0,37.9,-81.04,731416,368095,122298,453723
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2019,Jan 1 2019,24106,45,10,0,37.9,-81.04,832311,422441,98304,370211
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2020,Jan 1 2020,30180,45,10,0,37.9,-81.04,749650,408205,114776,243275
+New River Gorge NP & PRES,Great Sand Dunes National Park,Great Sand Dunes,NERI,National Park,Northeast,WV,2021,Jan 1 2021,33856,280,119,158,37.9,-81.04,1052308,583754,135716,513555
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2012,Jan 1 2012,2,0,0,4,48.7,-121.2,17615,8302,41,977
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2013,Jan 1 2013,16,0,0,34,48.7,-121.2,15954,4692,42,935
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2014,Jan 1 2014,40,0,0,25,48.7,-121.2,16003,6843,123,896
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2015,Jan 1 2015,59,0,0,12,48.7,-121.2,15100,3475,265,1837
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2016,Jan 1 2016,25,0,0,15,48.7,-121.2,21414,6453,59,720
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2017,Jan 1 2017,37,0,0,12,48.7,-121.2,21245,7653,90,1338
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2018,Jan 1 2018,27,0,0,3,48.7,-121.2,20623,7575,62,1825
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2019,Jan 1 2019,9,0,0,9,48.7,-121.2,27752,9055,90,1311
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2020,Jan 1 2020,2,0,0,2,48.7,-121.2,23989,6871,6,19
+North Cascades NP,North Cascades National Park,North Cascades,NOCA,National Park,Pacific West,WA,2021,Jan 1 2021,298,0,0,40,48.7,-121.2,12523,3950,586,796
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2012,Jan 1 2012,65178,230,388,230,47.97,-123.5,1428461,666940,230370,499137
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2013,Jan 1 2013,77162,294,496,199,47.97,-123.5,1705215,597730,263356,519039
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2014,Jan 1 2014,80424,367,534,255,47.97,-123.5,1842679,616475,231903,552815
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2015,Jan 1 2015,79877,522,833,254,47.97,-123.5,1821316,636425,251578,554442
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2016,Jan 1 2016,97571,645,612,125,47.97,-123.5,1836064,641218,273519,639420
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2017,Jan 1 2017,96056,623,598,114,47.97,-123.5,1774657,697774,261824,667741
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2018,Jan 1 2018,124050,596,703,265,47.97,-123.5,1610626,629255,283751,580823
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2019,Jan 1 2019,72725,16,49,197,47.97,-123.5,1754782,691055,218840,581129
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2020,Jan 1 2020,74888,139,313,217,47.97,-123.5,1415277,629997,231279,222624
+Olympic NP,Olympic National Park,Olympic,OLYM,National Park,Pacific West,WA,2021,Jan 1 2021,74962,956,1709,172,47.97,-123.5,1545668,621208,232364,319685
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2012,Jan 1 2012,21543,0,0,9,35.07,-109.78,284320,152203,67625,160709
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2013,Jan 1 2013,20640,0,0,10,35.07,-109.78,297427,109218,56656,181347
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2014,Jan 1 2014,20906,0,0,3,35.07,-109.78,321389,208677,79980,226753
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2015,Jan 1 2015,20181,0,0,9,35.07,-109.78,336036,148846,86024,222319
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2016,Jan 1 2016,18776,0,0,15,35.07,-109.78,277398,136004,66612,163260
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2017,Jan 1 2017,24592,0,0,10,35.07,-109.78,240209,145526,75993,166029
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2018,Jan 1 2018,25215,0,0,51,35.07,-109.78,250768,139061,77088,178005
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2019,Jan 1 2019,15341,0,0,0,35.07,-109.78,248273,141636,69123,184556
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2020,Jan 1 2020,26608,0,0,33,35.07,-109.78,129165,121925,86677,46716
+Petrified Forest NP,Petrified Forest National Park,Petrified Forest,PEFO,National Park,Intermountain,AZ,2021,Jan 1 2021,24618,0,0,0,35.07,-109.78,209219,147147,75040,158928
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2012,Jan 1 2012,13206,0,0,0,36.48,-121.16,50279,57164,53575,63458
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2013,Jan 1 2013,17476,0,0,0,36.48,-121.16,66354,39893,48064,83366
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2014,Jan 1 2014,15750,0,0,0,36.48,-121.16,47775,36293,44193,68374
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2015,Jan 1 2015,18108,0,0,0,36.48,-121.16,48082,36117,49281,73053
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2016,Jan 1 2016,13054,0,0,0,36.48,-121.16,53171,38062,49322,75000
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2017,Jan 1 2017,12696,0,0,0,36.48,-121.16,57087,44083,43997,88167
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2018,Jan 1 2018,15909,0,0,0,36.48,-121.16,55083,42842,51131,73096
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2019,Jan 1 2019,1154,0,0,0,36.48,-121.16,48872,43035,25004,60313
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2020,Jan 1 2020,23959,0,0,0,36.48,-121.16,29398,44711,66819,24812
+Pinnacles NP,Pinnacles National Park,Pinnacles,PINN,National Park,Pacific West,CA,2021,Jan 1 2021,26793,0,0,0,36.48,-121.16,85296,68356,77142,118063
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2012,Jan 1 2012,13949,0,0,44,41.3,-124,158130,94803,47686,51898
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2013,Jan 1 2013,15542,59,0,19,41.3,-124,178041,83249,46535,85539
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2014,Jan 1 2014,16096,63,0,70,41.3,-124,187870,108400,45291,87605
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2015,Jan 1 2015,16051,145,0,41,41.3,-124,220422,122317,72481,111923
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2016,Jan 1 2016,18194,71,0,41,41.3,-124,222869,114912,60289,138227
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2017,Jan 1 2017,24830,58,0,56,41.3,-124,180036,96219,68147,100598
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2018,Jan 1 2018,23502,157,0,42,41.3,-124,200684,109720,63970,108162
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2019,Jan 1 2019,17129,0,0,0,41.3,-124,201114,122046,54649,126913
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2020,Jan 1 2020,24128,10,0,10,41.3,-124,107022,59157,59449,39549
+Redwood NP,Redwood National Park,Redwood,REDW,National Park,Pacific West,CA,2021,Jan 1 2021,19790,39,0,95,41.3,-124,167718,120463,59417,88281
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2012,Jan 1 2012,68537,72,114,91,40.4,-105.58,1741059,840832,197349,450377
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2013,Jan 1 2013,78022,66,36,83,40.4,-105.58,1936943,406121,228823,419254
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2014,Jan 1 2014,77633,78,102,88,40.4,-105.58,1849236,934260,234546,416709
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2015,Jan 1 2015,98928,312,0,244,40.4,-105.58,2232801,1134306,277835,510974
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2016,Jan 1 2016,115207,114,72,130,40.4,-105.58,2386346,1268188,312163,550888
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2017,Jan 1 2017,95602,204,132,95,40.4,-105.58,2409350,1153909,307264,566692
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2018,Jan 1 2018,111422,195,135,99,40.4,-105.58,2451057,1222586,302448,614402
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2019,Jan 1 2019,118152,12,12,2,40.4,-105.58,2502255,1249699,331075,587024
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2020,Jan 1 2020,126866,198,186,63,40.4,-105.58,1795201,955559,393698,160741
+Rocky Mountain NP,Rocky Mountain National Park,Rocky Mountain,ROMO,National Park,Intermountain,CO,2021,Jan 1 2021,140715,198,186,63,40.4,-105.58,2322342,1038961,398874,674671
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2012,Jan 1 2012,61544,0,0,132,32.25,-110.5,106489,137020,194802,195975
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2013,Jan 1 2013,76927,0,0,58,32.25,-110.5,106006,101750,203719,266786
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2014,Jan 1 2014,77883,0,0,82,32.25,-110.5,106834,138438,215465,212835
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2015,Jan 1 2015,82743,0,0,129,32.25,-110.5,113340,142302,245560,252244
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2016,Jan 1 2016,88923,0,0,76,32.25,-110.5,119885,157475,284255,258811
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2017,Jan 1 2017,106868,0,0,210,32.25,-110.5,153220,184649,326269,300622
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2018,Jan 1 2018,104478,0,0,132,32.25,-110.5,142004,202794,298532,314075
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2019,Jan 1 2019,48968,0,0,66,32.25,-110.5,149343,196394,294574,379915
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2020,Jan 1 2020,124069,0,0,114,32.25,-110.5,70312,114261,433632,144021
+Saguaro NP,Saguaro National Park,Saguaro,SAGU,National Park,Intermountain,AZ,2021,Jan 1 2021,186505,0,0,258,32.25,-110.5,95322,168501,453056,362907
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2012,Jan 1 2012,30112,487,0,174,36.43,-118.68,557896,250152,85764,212772
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2013,Jan 1 2013,24429,340,32,162,36.43,-118.68,471083,171381,73727,193083
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2014,Jan 1 2014,25825,747,134,202,36.43,-118.68,495604,228254,95164,220115
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2015,Jan 1 2015,35320,836,213,314,36.43,-118.68,510806,243331,107813,235514
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2016,Jan 1 2016,41007,566,210,185,36.43,-118.68,573460,300772,120590,259866
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2017,Jan 1 2017,28877,452,156,34,36.43,-118.68,602358,294879,109685,284334
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2018,Jan 1 2018,39678,843,324,0,36.43,-118.68,534336,273608,139860,281790
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2019,Jan 1 2019,36024,267,286,90,36.43,-118.68,537654,322328,109858,276213
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2020,Jan 1 2020,46368,499,404,202,36.43,-118.68,435495,219727,124239,16625
+Sequoia NP,Sequoia National Park,Sequoia,SEQU,National Park,Pacific West,CA,2021,Jan 1 2021,65177,0,0,224,36.43,-118.68,500191,98548,143917,316892
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2012,Jan 1 2012,18017,0,0,97,38.53,-78.35,439752,450095,52005,268348
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2013,Jan 1 2013,13786,0,0,266,38.53,-78.35,464243,350671,41495,280096
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2014,Jan 1 2014,8052,0,0,176,38.53,-78.35,495777,457096,39849,262599
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2015,Jan 1 2015,11278,0,0,214,38.53,-78.35,502987,485659,56037,277190
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2016,Jan 1 2016,16626,0,0,242,38.53,-78.35,530103,553102,66910,287226
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2017,Jan 1 2017,19961,0,0,512,38.53,-78.35,549850,516050,89724,303250
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2018,Jan 1 2018,23798,0,0,249,38.53,-78.35,504142,431468,65959,263311
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2019,Jan 1 2019,20245,0,0,59,38.53,-78.35,533406,539839,60692,291570
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2020,Jan 1 2020,27236,0,0,356,38.53,-78.35,647580,720172,106763,191750
+Shenandoah NP,Shenandoah National Park,Shenandoah,SHEN,National Park,Northeast,VA,2021,Jan 1 2021,37588,0,0,633,38.53,-78.35,526060,625298,93518,347436
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2012,Jan 1 2012,1231,24,49,0,46.97,-103.45,333454,193811,12228,101062
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2013,Jan 1 2013,1863,8,5,0,46.97,-103.45,356957,129223,12928,45982
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2014,Jan 1 2014,2014,3,14,0,46.97,-103.45,362395,113919,8295,74971
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2015,Jan 1 2015,2007,3,5,0,46.97,-103.45,335964,170308,9813,63948
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2016,Jan 1 2016,3699,14,3,2,46.97,-103.45,445102,203254,9609,95915
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2017,Jan 1 2017,1905,3,11,0,46.97,-103.45,425780,165308,7076,109839
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2018,Jan 1 2018,2950,0,3,0,46.97,-103.45,447611,182574,9273,109931
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2019,Jan 1 2019,2515,3,3,0,46.97,-103.45,419599,173705,6221,92133
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2020,Jan 1 2020,2103,5,5,0,46.97,-103.45,349813,153223,13167,35100
+Theodore Roosevelt NP,Theodore Roosevelt National Park,Theodore Roosevelt,THRO,National Park,Midwest,ND,2021,Jan 1 2021,6866,11,43,16,46.97,-103.45,483984,194030,14215,103856
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2012,Jan 1 2012,4331,0,0,0,48.5,-92.88,161229,4307,15287,34018
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2013,Jan 1 2013,3884,0,0,0,48.5,-92.88,147928,40153,13582,31727
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2014,Jan 1 2014,4866,0,0,4,48.5,-92.88,151017,40526,13389,34228
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2015,Jan 1 2015,6365,0,0,4,48.5,-92.88,152031,40382,13432,32468
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2016,Jan 1 2016,5105,0,0,10,48.5,-92.88,155049,40862,13803,32198
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2017,Jan 1 2017,3906,0,0,17,48.5,-92.88,155137,39367,11745,31001
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2018,Jan 1 2018,4369,0,0,21,48.5,-92.88,153851,39941,11476,34388
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2019,Jan 1 2019,4458,0,0,16,48.5,-92.88,150004,39036,12309,31625
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2020,Jan 1 2020,2585,0,0,17,48.5,-92.88,177853,45488,7920,31830
+Voyageurs NP,Voyageurs National Park,Voyageurs,VOYA,National Park,Midwest,MN,2021,Jan 1 2021,4679,0,0,13,48.5,-92.88,158001,40671,12923,31447
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2012,Jan 1 2012,23304,0,0,99,32.77,-106.17,131016,102950,78864,134555
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2013,Jan 1 2013,24050,0,0,68,32.77,-106.17,149337,89709,90037,161461
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2014,Jan 1 2014,27967,0,0,84,32.77,-106.17,160558,93975,85595,163532
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2015,Jan 1 2015,20350,0,0,65,32.77,-106.17,157827,103359,71450,164870
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2016,Jan 1 2016,23939,0,0,173,32.77,-106.17,160317,125592,91515,178369
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2017,Jan 1 2017,28725,0,0,183,32.77,-106.17,172357,127989,108277,203845
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2018,Jan 1 2018,33285,0,0,251,32.77,-106.17,174405,132255,85616,210732
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2019,Jan 1 2019,4693,0,0,3,32.77,-106.17,177000,131637,89281,210867
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2020,Jan 1 2020,40264,0,0,271,32.77,-106.17,90084,148161,128736,48402
+White Sands NP,White Sands National Park,White Sands,WHSA,National Park,Intermountain,NM,2021,Jan 1 2021,45053,0,0,0,32.77,-106.17,210780,167230,142421,262038
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2012,Jan 1 2012,12579,0,0,1,43.57,-103.48,268797,110865,41418,108003
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2013,Jan 1 2013,10376,0,0,0,43.57,-103.48,278351,104262,34253,99276
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2014,Jan 1 2014,11553,5,3,0,43.57,-103.48,308821,106356,31870,99975
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2015,Jan 1 2015,16116,0,0,1,43.57,-103.48,335213,113472,38605,124908
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2016,Jan 1 2016,10734,9,8,0,43.57,-103.48,343889,122831,36293,114364
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2017,Jan 1 2017,11916,0,3,0,43.57,-103.48,349325,122264,39233,109102
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2018,Jan 1 2018,11916,2,0,0,43.57,-103.48,382636,125953,38706,109102
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2019,Jan 1 2019,11431,0,0,0,43.57,-103.48,363874,89683,36716,125077
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2020,Jan 1 2020,13641,2,0,0,43.57,-103.48,225486,103226,39659,80034
+Wind Cave NP,Wind Cave National Park,Wind Cave,WICA,National Park,Midwest,SD,2021,Jan 1 2021,14840,13,16,2,43.57,-103.48,395388,137499,39203,136911
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2012,Jan 1 2012,24766,32,109,69,44.6,-110.5,2340446,718738,70990,317555
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2013,Jan 1 2013,24699,64,202,63,44.6,-110.5,2161777,616654,73130,336469
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2014,Jan 1 2014,26778,42,170,79,44.6,-110.5,2301855,778105,73351,360173
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2015,Jan 1 2015,28091,128,144,89,44.6,-110.5,2615878,943275,82904,455653
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2016,Jan 1 2016,30621,192,125,108,44.6,-110.5,2675269,968468,86633,526807
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2017,Jan 1 2017,29518,154,93,89,44.6,-110.5,2682222,862523,83087,488692
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2018,Jan 1 2018,29179,118,141,104,44.6,-110.5,2565417,956379,85822,507382
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2019,Jan 1 2019,33896,96,198,27,44.6,-110.5,2537921,880085,91052,511230
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2020,Jan 1 2020,25234,118,336,64,44.6,-110.5,2410679,1221135,95757,78735
+Yellowstone NP,Yellowstone National Park,Yellowstone,YELL,National Park,Intermountain,WY,2021,Jan 1 2021,35338,115,422,102,44.6,-110.5,2941456,1231884,109984,576918
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2012,Jan 1 2012,120496,1352,2120,834,37.83,-119.5,1811405,946559,359151,736289
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2013,Jan 1 2013,103910,1420,992,779,37.83,-119.5,1672616,901737,349829,767009
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2014,Jan 1 2014,112133,3423,2312,0,37.83,-119.5,1774183,1025652,360027,722780
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2015,Jan 1 2015,128318,6760,3260,642,37.83,-119.5,1808176,1054050,403875,884116
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2016,Jan 1 2016,139780,2969,1572,898,37.83,-119.5,2176792,1300658,502027,1049391
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2017,Jan 1 2017,120025,2673,1512,524,37.83,-119.5,1814945,1214033,366722,941190
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2018,Jan 1 2018,129432,551,428,908,37.83,-119.5,1489787,1101017,583932,834700
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2019,Jan 1 2019,116746,2946,3388,538,37.83,-119.5,1917240,1264201,377599,863821
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2020,Jan 1 2020,132742,2383,1760,884,37.83,-119.5,1112828,645187,417974,92324
+Yosemite NP,Yosemite National Park,Yosemite,YOSE,National Park,Pacific West,CA,2021,Jan 1 2021,67284,0,0,0,37.83,-119.5,1371892,825854,324779,765070
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2012,Jan 1 2012,68202,547,554,167,37.3,-113.05,1127496,771624,213565,860922
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2013,Jan 1 2013,56972,377,451,105,37.3,-113.05,1091360,683900,197869,834258
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2014,Jan 1 2014,70862,773,669,124,37.3,-113.05,1196879,814570,247473,930774
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2015,Jan 1 2015,78318,1143,1007,179,37.3,-113.05,1393571,889557,282135,1083583
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2016,Jan 1 2016,84145,1350,720,184,37.3,-113.05,1622358,1143012,326093,1203664
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2017,Jan 1 2017,88561,1120,515,85,37.3,-113.05,1639285,1157386,337996,1370145
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2018,Jan 1 2018,107960,1987,1120,170,37.3,-113.05,1501229,1078132,383544,1357128
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2019,Jan 1 2019,98828,1574,1649,2,37.3,-113.05,1760020,1157227,372803,1198218
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2020,Jan 1 2020,126994,1906,1531,96,37.3,-113.05,1277126,1400182,487956,425990
+Zion NP,Zion National Park,Zion,ZION,National Park,Intermountain,UT,2021,Jan 1 2021,172747,3086,4891,233,37.3,-113.05,1724223,1261119,544962,1509531

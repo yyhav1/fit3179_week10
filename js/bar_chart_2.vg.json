@@ -1,0 +1,68 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 300,
+    "title": "Entrance fees",
+    "data": {
+        "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/data/nationalParkFees20.csv"
+    },
+    "encoding": {
+      "x": {
+        "field": "ShortName",
+        "type": "nominal",
+        "title": null,
+        "axis": {
+          "labelAngle": -40
+        }
+        },
+      "y": {"field": "VehicleFee", "type": "quantitative", "title": "Entrance fee"},
+      "tooltip": [
+        {"field": "ShortName", "title": "Park"},
+        {"field": "VehicleFee", "title": "Entrance fee", "format": "$.0f"}
+      ],
+      "color": {
+        "condition": {
+          "param": "region_select",
+          "field": "Region",
+          "type": "nominal",
+          "title": "Region (click to highlight)"
+        },
+        "value": "lightgrey"
+      },
+      "strokeWidth": {
+        "condition": {
+          "param": "hover",
+          "empty": false,
+          "value": 2
+        },
+        "value": 0
+      }
+    },
+    "layer": [
+      {
+        "mark": {"type": "bar", "width": {"band": 0.8}, "cornerRadiusEnd": 5, "stroke": "black"},
+        "params": [
+          {
+            "name": "region_select",
+            "select": {"type": "point", "fields": ["Region"]},
+            "bind":"legend"
+          },
+          {
+            "name": "hover",
+            "select": {"type": "point", "on": "mouseover"}
+          }
+        ]
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "bottom",
+          "dy": -2
+        },
+        "encoding": {
+          "text": {"field": "VehicleFee", "title": "Average fee", "type": "quantitative", "format": "$.0f"}
+        }
+      }
+    ]
+  }

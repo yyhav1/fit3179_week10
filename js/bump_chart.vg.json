@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "title": "Park rankings over time",
+  "params": [
+    {
+      "name": "park_select",
+      "select": {"type": "point", "fields": ["Name"]},
+      "bind": "legend"
+    },
+    {"name": "hover", "select": {"type": "point", "on": "mouseover"}}
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/yyhav1/fit3179_datavis2/main/data/nationalParkRanks.csv"
+  },
+  "mark": {"type": "line", "point": true, "size": 2},
+  "encoding": {
+    "x": {
+      "field": "Date",
+      "timeUnit": "year",
+      "title": "Year",
+      "type": "temporal",
+      "axis": {"tickCount": 10}
+    },
+    "y": {
+      "field": "Rank",
+      "type": "quantitative",
+      "title": "Rank (based on visitors)",
+      "sort": "descending",
+      "scale": {"domain": [1, 13]},
+      "axis": {"grid": false}
+    },
+    "color": {
+      "condition": {
+        "param": "park_select",
+        "field": "Name",
+        "type": "nominal",
+        "title": "Park (click to highlight)"
+      },
+      "value": "grey"
+    },
+    "opacity": {
+      "condition": {"param": "park_select", "value": 1},
+      "value": 0.2
+    },
+    "tooltip": [{"field": "ShortName", "title": "Park"}, {"field": "Year"}, {"field": "Rank"}]
+  }
+}
